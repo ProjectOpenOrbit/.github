@@ -1,6 +1,6 @@
 # Project Open Orbit
 
-Welcome to Open Orbit. 
+Welcome to Open Orbit.
 We are an organization which aims to create an open source implementation of the DarkOrbit game by Bigpoint.
 
 **Please note: We do not provide any official assets or copyrighted material.**
@@ -12,14 +12,14 @@ The client will be 3D.
 
 ## Assets
 
-We will use official assets, but never provide them here. 
+We will use official assets, but never provide them here.
 There will be toolchains which can download and convert all necessary assets automatically, so that we can avoid copyright infringement.
 
 The long term goal is to create our own assets which are not copyright strikeable.
 
 ## Copyright
 
-No copyrighted material will be provided here. 
+No copyrighted material will be provided here.
 
 ## But the packets are encrypted
 
