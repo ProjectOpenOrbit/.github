@@ -18,7 +18,7 @@ The client will be 3D.
 
 This is a small overview of the plans for the client:
 
-![Overview](client-structure-plan.png)
+![Overview](./client-structure-plan.png)
 
 ## Assets
 
