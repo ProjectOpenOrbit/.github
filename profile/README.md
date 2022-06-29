@@ -16,6 +16,10 @@ The project is still in an early state and documentation is lacking severely. Th
 At the moment, we aim to program a game client, which is compatible with the official servers as well as private servers.
 The client will be 3D.
 
+This is a small overview of the plans for the client:
+
+![Overview](client-structure-plan.png)
+
 ## Assets
 
 We will use official assets, but never provide them here.
@@ -31,6 +35,12 @@ No copyrighted material will be provided here.
 
 Using several tools, the protocol can be dissected, thus enabling us to generate the necessary netcode.
 We are already working on a pipeline that can accomplish this.
+
+## "But BigPoint is already working on a Unity Client?"
+
+Yes, but apparently they don't deliver what was promised - at least as of today (June 30th, 2022).
+
+Also, writing a game client is a fun challenge and the final result would be an open source piece of software that many can enjoy and change to their liking.
 
 ## Progress
 
