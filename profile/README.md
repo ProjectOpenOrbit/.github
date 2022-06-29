@@ -21,7 +21,7 @@ The long term goal is to create our own assets which are not copyright strikeabl
 
 No copyrighted material will be provided here.
 
-## But the packets are encrypted
+## "But the packets are encrypted"?!
 
 Using several tools, the protocol can be dissected, thus enabling us to generate the necessary netcode.
 We are already working on a pipeline that can accomplish this.
