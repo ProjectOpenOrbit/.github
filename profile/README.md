@@ -1,7 +1,8 @@
 # Project Open Orbit
 
 Welcome to Open Orbit.
-We are an organization which aims to create an open source implementation of the DarkOrbit game by Bigpoint.
+
+This is a community project which aims to create an open source implementation of the DarkOrbit game by Bigpoint.
 
 <b style="color:yellow">Please note: We do not provide any official assets or copyrighted material.</b>
 
