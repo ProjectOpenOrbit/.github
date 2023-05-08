@@ -1,3 +1,5 @@
+# THIS PROJECT IS CANCELLED! I DECIDED TO LEAVE DARKORBIT ENTIRELY AND MOVE ON
+
 # Project Open Orbit
 
 Welcome to Open Orbit.
